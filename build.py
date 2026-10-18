@@ -65,7 +65,8 @@ def metadata(scr):
         "SimHubVersion": SIMHUB_VERSION,
         "Category": NAME,
         "Title": NAME,
-        "Description": "iRacing race dash: race, timing, fuel, tyres, field, weather + auto pit page",
+        "Description": "iRacing dash for a 12.3in 1920x720 bar display: race, fuel, timing, weather, "
+                       "field (garage, multi-class) + pit limiter page",
         "Author": "SKOPOS",
         "Width": float(W),
         "Height": float(H),

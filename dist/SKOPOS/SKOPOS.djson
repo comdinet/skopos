@@ -13462,7 +13462,7 @@
     "SimHubVersion": "9.11.3",
     "Category": "SKOPOS",
     "Title": "SKOPOS",
-    "Description": "iRacing race dash: race, timing, fuel, tyres, field, weather + auto pit page",
+    "Description": "iRacing dash for a 12.3in 1920x720 bar display: race, fuel, timing, weather, field (garage, multi-class) + pit limiter page",
     "Author": "SKOPOS",
     "Width": 1920.0,
     "Height": 720.0,
